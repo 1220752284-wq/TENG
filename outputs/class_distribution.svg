@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="420">
+<rect width="100%" height="100%" fill="white"/>
+<text x="20" y="30" font-size="18" font-family="Arial">Class Distribution</text>
+<line x1="80" y1="350" x2="580" y2="350" stroke="#333"/>
+<line x1="80" y1="70" x2="80" y2="350" stroke="#333"/>
+<rect x="140" y="90.0" width="110" height="260.0" fill="#4C78A8"/>
+<text x="175" y="375" font-size="14">walk</text>
+<text x="180" y="82.0" font-size="14">400</text>
+<rect x="290" y="90.0" width="110" height="260.0" fill="#F58518"/>
+<text x="325" y="375" font-size="14">run</text>
+<text x="330" y="82.0" font-size="14">400</text>
+<rect x="440" y="90.0" width="110" height="260.0" fill="#54A24B"/>
+<text x="475" y="375" font-size="14">jump</text>
+<text x="480" y="82.0" font-size="14">400</text>
+</svg>
