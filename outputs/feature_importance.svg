@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="500">
+<rect width="100%" height="100%" fill="white"/>
+<text x="20" y="30" font-size="18" font-family="Arial">Top-10 Feature Importance (ANOVA F-score)</text>
+<rect x="200" y="60" width="460.0" height="30" fill="#4C78A8"/>
+<text x="190" y="80" font-size="13" text-anchor="end">crest_factor</text>
+<text x="668.0" y="80" font-size="12">5605.60</text>
+<rect x="200" y="100" width="405.8477102450974" height="30" fill="#4C78A8"/>
+<text x="190" y="120" font-size="13" text-anchor="end">spec_centroid</text>
+<text x="613.8477102450975" y="120" font-size="12">4945.70</text>
+<rect x="200" y="140" width="213.8546012423922" height="30" fill="#4C78A8"/>
+<text x="190" y="160" font-size="13" text-anchor="end">zcr</text>
+<text x="421.85460124239216" y="160" font-size="12">2606.05</text>
+<rect x="200" y="180" width="203.6714337124545" height="30" fill="#4C78A8"/>
+<text x="190" y="200" font-size="13" text-anchor="end">spec_entropy</text>
+<text x="411.6714337124545" y="200" font-size="12">2481.96</text>
+<rect x="200" y="220" width="200.7728180952269" height="30" fill="#4C78A8"/>
+<text x="190" y="240" font-size="13" text-anchor="end">mav</text>
+<text x="408.7728180952269" y="240" font-size="12">2446.64</text>
+<rect x="200" y="260" width="182.90134925754498" height="30" fill="#4C78A8"/>
+<text x="190" y="280" font-size="13" text-anchor="end">q25</text>
+<text x="390.901349257545" y="280" font-size="12">2228.85</text>
+<rect x="200" y="300" width="155.77700016663144" height="30" fill="#4C78A8"/>
+<text x="190" y="320" font-size="13" text-anchor="end">q75</text>
+<text x="363.7770001666314" y="320" font-size="12">1898.31</text>
+<rect x="200" y="340" width="92.63163919999444" height="30" fill="#4C78A8"/>
+<text x="190" y="360" font-size="13" text-anchor="end">std</text>
+<text x="300.6316391999944" y="360" font-size="12">1128.82</text>
+<rect x="200" y="380" width="81.03044514859005" height="30" fill="#4C78A8"/>
+<text x="190" y="400" font-size="13" text-anchor="end">rms</text>
+<text x="289.03044514859005" y="400" font-size="12">987.44</text>
+<rect x="200" y="420" width="68.92956403419313" height="30" fill="#4C78A8"/>
+<text x="190" y="440" font-size="13" text-anchor="end">peak_to_peak</text>
+<text x="276.92956403419316" y="440" font-size="12">839.98</text>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="480">
+<rect width="100%" height="100%" fill="white"/>
+<text x="20" y="30" font-size="18" font-family="Arial">Prediction Confidence Distribution</text>
+<line x1="70" y1="380" x2="690" y2="380" stroke="#333"/>
+<line x1="70" y1="80" x2="70" y2="380" stroke="#333"/>
+<text x="115.0" y="405" font-size="12">0.5-0.6</text>
+<rect x="90.0" y="380.0" width="30" height="0.0" fill="#4C78A8"/>
+<rect x="128.0" y="380.0" width="30" height="0.0" fill="#F58518"/>
+<rect x="166.0" y="380.0" width="30" height="0.0" fill="#54A24B"/>
+<text x="239.0" y="405" font-size="12">0.6-0.7</text>
+<rect x="214.0" y="380.0" width="30" height="0.0" fill="#4C78A8"/>
+<rect x="252.0" y="380.0" width="30" height="0.0" fill="#F58518"/>
+<rect x="290.0" y="380.0" width="30" height="0.0" fill="#54A24B"/>
+<text x="363.0" y="405" font-size="12">0.7-0.8</text>
+<rect x="338.0" y="380.0" width="30" height="0.0" fill="#4C78A8"/>
+<rect x="376.0" y="380.0" width="30" height="0.0" fill="#F58518"/>
+<rect x="414.0" y="380.0" width="30" height="0.0" fill="#54A24B"/>
+<text x="487.0" y="405" font-size="12">0.8-0.9</text>
+<rect x="462.0" y="380.0" width="30" height="0.0" fill="#4C78A8"/>
+<rect x="500.0" y="380.0" width="30" height="0.0" fill="#F58518"/>
+<rect x="538.0" y="380.0" width="30" height="0.0" fill="#54A24B"/>
+<text x="611.0" y="405" font-size="12">0.9-1.0</text>
+<rect x="586.0" y="100.0" width="30" height="280.0" fill="#4C78A8"/>
+<rect x="624.0" y="121.53846153846155" width="30" height="258.46153846153845" fill="#F58518"/>
+<rect x="662.0" y="110.76923076923077" width="30" height="269.2307692307692" fill="#54A24B"/>
+<rect x="130" y="410" width="14" height="14" fill="#4C78A8"/>
+<text x="150" y="422" font-size="13">walk</text>
+<rect x="280" y="410" width="14" height="14" fill="#F58518"/>
+<text x="300" y="422" font-size="13">run</text>
+<rect x="430" y="410" width="14" height="14" fill="#54A24B"/>
+<text x="450" y="422" font-size="13">jump</text>
+</svg>

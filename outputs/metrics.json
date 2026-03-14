@@ -1,0 +1,37 @@
+{
+  "accuracy": 0.9866666666666667,
+  "labels": [
+    "walk",
+    "run",
+    "jump"
+  ],
+  "confusion_matrix": [
+    [
+      100,
+      0,
+      0
+    ],
+    [
+      4,
+      96,
+      0
+    ],
+    [
+      0,
+      0,
+      100
+    ]
+  ],
+  "n_samples": 1200,
+  "n_train": 900,
+  "n_test": 300,
+  "outputs": {
+    "confusion_matrix_svg": "outputs/confusion_matrix.svg",
+    "confusion_matrix_normalized_svg": "outputs/confusion_matrix_normalized.svg",
+    "class_distribution_svg": "outputs/class_distribution.svg",
+    "signal_examples_svg": "outputs/signal_examples.svg",
+    "feature_scatter_rms_zcr_svg": "outputs/feature_scatter_rms_zcr.svg",
+    "feature_importance_svg": "outputs/feature_importance.svg",
+    "prediction_confidence_hist_svg": "outputs/prediction_confidence_hist.svg"
+  }
+}
